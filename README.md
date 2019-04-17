@@ -1,4 +1,4 @@
 # Boids
 
-<img src="BoidsV2/ball/boids.PNG">
+<img src="boidsV2/ball/boids.PNG">
 
